@@ -1,4 +1,9 @@
+Integrantes :
 Dacal Federico
 Prutscher Matias
 Di Santo Franco
+
+Respuestas:
+a- Si, Desde el repositorio se ven sin tener que hacer nada, y por consola necesitamos hacer git pull y veremos los datos.
+b- Si, todos los integrantes del grupo ven los cambios, en el caso de ser por consola también deberan hacer git pull, para tener la ultima versión.
 
