@@ -7,3 +7,5 @@ Respuestas:
 a- Si, Desde el repositorio se ven sin tener que hacer nada, y por consola necesitamos hacer git pull y veremos los datos.
 b- Si, todos los integrantes del grupo ven los cambios, en el caso de ser por consola también deberan hacer git pull, para tener la ultima versión.
 
+c- Si, todos los integrantes pueden ver las modificaciones desde el repositorio remoto o a traves de la terminal ejecutando el comando git pull para actualizar el repositorio local
+d- Nos comunicamos por Whatsapp
